@@ -6,7 +6,7 @@ A Flutter Project.
 
 This project contains a simple class helping flutter developers creating an animated transition for widgets, without diving into the details of flutter animations objects.
 
-![](https://tmt.sa/Simple_Transition.mp4)
+![<img src="https://tmt.sa/Simple_Transition.png" width="300" height="650"/>](https://tmt.sa/Simple_Transition.mp4)
 
 For help getting started with Simple Transition development:
 - Copy simple_transition.dart file to your project
